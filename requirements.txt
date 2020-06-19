@@ -1,0 +1,9 @@
+nltk~=3.5
+gensim~=3.8.3
+bs4~=0.0.1
+beautifulsoup4~=4.9.1
+polyglot~=16.7.4
+validators~=0.15.0
+urllib3~=1.25.9
+psycopg2~=2.8.5
+stem~=1.8.0

@@ -1,0 +1,419 @@
+{
+  "103": {
+    "description": "Pornografía con utilización de niñas, niños o adolescentes",
+    "english": [
+      "young",
+      "sex",
+      "sexy",
+      "teen",
+      "rape",
+      "pussy",
+      "loli",
+      "incest",
+      "daugther",
+      "nude",
+      "porn"
+    ],
+    "spanish": [
+      "joven",
+      "sexo",
+      "sexy",
+      "adolescente",
+      "violación",
+      "coño",
+      "loli",
+      "incesto",
+      "hija",
+      "desnuda",
+      "porno"
+    ],
+    "russian": [
+      "молодые",
+      "секс",
+      "сексуальная",
+      "подростки",
+      "рапс",
+      "киска",
+      "Лол",
+      "инцест",
+      "Дочь",
+      "ню",
+      "порно"
+    ]
+  },
+  "178": {
+    "description": "Violación a la intimidad",
+    "english": [
+      "hack",
+      "hacker",
+      "hacking",
+      "social",
+      "victim",
+      "pishing",
+      "picture",
+      "stolen",
+      "facebook",
+      "instagram",
+      "twiter",
+      "spy"
+    ],
+    "spanish": [
+      "piratear",
+      "hacker",
+      "piratear",
+      "social",
+      "víctima",
+      "phishing",
+      "imagen",
+      "robado",
+      "facebook",
+      "instagram",
+      "twitter",
+      "espía"
+    ],
+    "russian": [
+      "hack",
+      "hacker",
+      "hacking",
+      "social",
+      "жертва",
+      "phishing",
+      "picture",
+      "украдено",
+      "facebook",
+      "instagram",
+      "twitter",
+      "spy"
+    ]
+  },
+  "190": {
+    "description": "Apropiación fraudulenta por medios electrónicos",
+    "english": [
+      "hack",
+      "hacker",
+      "hacking",
+      "social",
+      "victim",
+      "pishing",
+      "picture",
+      "stolen",
+      "email",
+      "documents",
+      "credit",
+      "debit",
+      "card",
+      "deposit",
+      "bank",
+      "account"
+    ],
+    "spanish": [
+      "hack",
+      "hacker",
+      "hackear",
+      "social",
+      "víctima",
+      "pishing",
+      "imagen",
+      "robado",
+      "correo electronico",
+      "documentos",
+      "credito",
+      "debito",
+      "tarjeta",
+      "depositar",
+      "banco",
+      "cuenta"
+    ],
+    "russian": [
+      "Взломать",
+      "Хакер",
+      "Взлом",
+      "Социальное",
+      "потерпевший",
+      "Pishing",
+      "рисунок",
+      "Украдены",
+      "электронное письмо",
+      "документы",
+      "Кредит",
+      "дебет",
+      "открытка",
+      "Депозит",
+      "банка",
+      "Счет"
+    ]
+  },
+  "211": {
+    "description": "Supresión, alteración o suposición de la identidad y estado civil",
+    "english": [
+      "identifier",
+      "identification",
+      "alter",
+      "card",
+      "document",
+      "forgery",
+      "alteration"
+    ],
+    "spanish": [
+      "identificador",
+      "identificacion",
+      "alterar",
+      "tarjeta",
+      "documento",
+      "falsificacion",
+      "modificacion"
+    ],
+    "russian": [
+      "идентификатор",
+      "удостоверение личности",
+      "Изменить",
+      "открытка",
+      "документ",
+      "Подлог",
+      "изменение"
+    ]
+  },
+  "229": {
+    "description": "Revelación ilegal de base de datos",
+    "english": [
+      "stolen",
+      "data",
+      "database",
+      "accounts",
+      "passwords",
+      "bitcoin",
+      "payment",
+      "buy"
+    ],
+    "spanish": [
+      "robado",
+      "datos",
+      "base de datos",
+      "cuentas",
+      "contraseña",
+      "bitcoin",
+      "pago",
+      "comprar"
+    ],
+    "russian": [
+      "Украдены",
+      "данные",
+      "база данных",
+      "учетные записи",
+      "пароли",
+      "Bitcoin",
+      "оплата",
+      "купить"
+    ]
+  },
+  "230": {
+    "description": "Interceptación ilegal de datos",
+    "english": [
+      "hack",
+      "hacker",
+      "hacking",
+      "crack",
+      "interception",
+      "spy",
+      "data",
+      "network",
+      "call"
+    ],
+    "spanish": [
+      "hack",
+      "hacker",
+      "hacking",
+      "crack",
+      "interceptación",
+      "espía",
+      "datos",
+      "red",
+      "llamada"
+    ],
+    "russian": [
+       "Хакер",
+       "Перехват",
+       "Подсмотреть",
+       "данные",
+       "Сеть",
+       "вызов"
+    ]
+  },
+  "231": {
+    "description": "Transferencia electrónica de activo patrimonial",
+    "english": [
+      "stolen",
+      "stole",
+      "bank",
+      "hack",
+      "hacker",
+      "hacking",
+      "social",
+      "victim",
+      "pishing",
+      "picture",
+      "stolen",
+      "email",
+      "documents",
+      "credit card",
+      "debit card",
+      "bank",
+      "account"
+    ],
+    "spanish": [
+      "robado",
+      "robó",
+      "banco",
+      "cortar a tajos",
+      "hacker",
+      "hacking",
+      "social",
+      "víctima",
+      "pishing",
+      "imagen",
+      "robado",
+      "correo electrónico",
+      "documentos",
+      "tarjeta de crédito",
+      "tarjeta de débito",
+      "banco",
+      "cuenta"
+    ],
+    "russian": [
+      "Украдены",
+      "украл",
+      "банка",
+      "Взломать",
+      "Хакер",
+      "Социальное",
+      "потерпевший",
+      "Pishing",
+      "рисунок",
+      "Украдены",
+      "электронное письмо",
+      "документы",
+      "кредитная карта",
+      "дебетовая карточка",
+      "банка",
+      "Счет"
+    ]
+  },
+  "232": {
+    "description": "Ataque a la integridad de sistemas informáticos",
+    "english": [
+      "hack",
+      "hacker",
+      "hacking",
+      "interception",
+      "spy",
+      "systems",
+      "attacks",
+      "ddos",
+      "web",
+      "alter",
+      "data",
+      "database"
+    ],
+    "spanish": [
+      "crack",
+      "hacker",
+      "hacking",
+      "interceptación",
+      "espía",
+      "sistemas",
+      "ataques",
+      "ddos",
+      "web",
+      "alterar",
+      "datos",
+      "base de datos"
+    ],
+    "russian": [
+      "Хакер",
+      "Перехват",
+      "Подсмотреть",
+      "система",
+      "атака",
+      "ддос",
+      "Паутина",
+      "Изменить",
+      "данные",
+      "база данных"
+    ]
+  },
+  "233": {
+    "description": "Delitos contra la información pública reservada legalmente",
+    "english": [
+      "public",
+      "data",
+      "government",
+      "municipal",
+      "politician",
+      "exposition",
+      "exhibition"
+    ],
+    "spanish": [
+      "publico",
+      "datos",
+      "gobierno",
+      "municipal",
+      "politico",
+      "exposicion",
+      "exposicion"
+    ],
+    "russian": [
+      "Общественность",
+      "данные",
+      "правительство",
+      "Муниципальный",
+      "Политик",
+      "Экспозиция",
+      "Выставка"
+    ]
+  },
+  "234": {
+    "description": "Acceso no consentido a un sistema informático, telemático o de telecomunicaciones",
+    "english": [
+      "movil",
+      "cellphone",
+      "cell",
+      "hacker",
+      "hack",
+      "hacking",
+      "payment",
+      "attack",
+      "access",
+      "vulnerability",
+      "infringe",
+      "telematics",
+      "telecommunications"
+    ],
+    "spanish": [
+      "hack",
+      "movil",
+      "Teléfono móvil",
+      "célula",
+      "hacker",
+      "hacking",
+      "pago",
+      "ataque",
+      "acceso",
+      "vulnerabilidad",
+      "infringir",
+      "telemática",
+      "telecomunicaciones"
+    ],
+    "russian": [
+       "сотовый телефон",
+       "Клетка",
+       "Хакер",
+       "оплата",
+       "атака",
+       "доступ",
+       "Уязвимость",
+       "Ущемлять",
+       "Телематика",
+       "телекоммуникации"
+    ]
+  }
+}

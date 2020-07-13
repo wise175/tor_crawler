@@ -16,7 +16,8 @@ STATE = {
 }
 
 FILES = [
-    '.jpg', '.zip', '.png', '.jpeg', '.mp4', '.webm', '.gif', '.bmp'
+    '.jpg', '.zip', '.png', '.jpeg', '.mp4', '.webm', '.gif', '.bmp',
+    '.mp4?cache='
 ]
 
 

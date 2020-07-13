@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#/home/wise/PycharmProjects/tor_crawler/main.py</OriginalElement>
+  <nodes>
+    <node x="708.0" y="902.5">modules.queue.Queue</node>
+    <node x="376.0" y="935.5">modules.torConnection.TorConnection</node>
+    <node x="252.0" y="935.5">main.Main</node>
+    <node x="1049.0" y="671.0">modules.onionLink.OnionLink</node>
+    <node x="456.0" y="0.0">typing.Hashable</node>
+    <node x="0.0" y="858.5">modules.dbConnection.CRUD</node>
+    <node x="404.0" y="104.0">object</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="modules.onionLink.OnionLink" target="object">
+      <point x="0.0" y="-291.5" />
+      <point x="1355.0" y="641.0" />
+      <point x="634.4" y="641.0" />
+      <point x="102.39999999999998" y="258.5" />
+    </edge>
+    <edge source="object" target="typing.Hashable">
+      <point x="0.0" y="-258.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="main.Main" target="object">
+      <point x="0.0" y="-27.0" />
+      <point x="304.0" y="651.0" />
+      <point x="480.79999999999995" y="651.0" />
+      <point x="-51.19999999999999" y="258.5" />
+    </edge>
+    <edge source="modules.torConnection.TorConnection" target="object">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="258.5" />
+    </edge>
+    <edge source="modules.dbConnection.CRUD" target="object">
+      <point x="0.0" y="-104.0" />
+      <point x="116.0" y="641.0" />
+      <point x="429.6" y="641.0" />
+      <point x="-102.39999999999998" y="258.5" />
+    </edge>
+    <edge source="modules.queue.Queue" target="object">
+      <point x="0.0" y="-60.0" />
+      <point x="868.5" y="651.0" />
+      <point x="583.2" y="651.0" />
+      <point x="51.200000000000045" y="258.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4842355740630577" x="830.5" y="627.0" />
+  <SelectedNodes>
+    <node>modules.dbConnection.CRUD</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+</Diagram>
+

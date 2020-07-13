@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#/home/wise/PycharmProjects/tor_crawler/main_nlp.py</OriginalElement>
+  <nodes>
+    <node x="0.0" y="440.0">modules.crimeIdentification.CrimeCategorization</node>
+    <node x="0.0" y="253.0">modules.nlp.NLP</node>
+    <node x="0.0" y="0.0">modules.dbConnection.CRUD</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Tree" zoom="1.0" x="204.0" y="258.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+</Diagram>
+

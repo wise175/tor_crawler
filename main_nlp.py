@@ -19,6 +19,9 @@ def get_args():
     parser.add_argument("-c", "--config-file",
                         help="Sets config file where where some properties "
                              "are,such as the connection to the Database.")
+    parser.add_argument("-k", "--keywords-file",
+                        help="Sets crime keywords to match. File in json "
+                             "format.")
     return parser.parse_args()
 
 
@@ -29,15 +32,16 @@ def main_nlp():
     dbConnection.cursor = params_conn.get('cursor')
 
     with Pool(processes=4) as pool:
-        pool.apply(nlp_analysis, args=())
+        pool.apply(nlp_analysis, args=[args.keywords_file])
 
 
-def nlp_analysis():
+def nlp_analysis(keywords_file):
     nlp = NLP()
     crime_cat = CrimeCategorization()
+    keywords = crime_cat.get_crime_keywords(keywords_file)
     nlp_analysis = nlp.analysis(CRUD.next_pending_content())
     while nlp_analysis:
-        result = crime_cat.identification(nlp_analysis)
+        result = crime_cat.identification(nlp_analysis, keywords)
         CRUD.save_analized_link(result)
         nlp_analysis = nlp.analysis(CRUD.next_pending_content())
 

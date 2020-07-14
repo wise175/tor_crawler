@@ -5,14 +5,14 @@ MIN_COINCIDENCES = 2
 
 class CrimeCategorization:
 
-    def get_crime_keywords(self):
-        with open('crime_keywords.json') as file:
+    def get_crime_keywords(self, keywords_file):
+        with open(keywords_file) as file:
             crimes = json.load(file)
             return crimes
 
-    def identification(self, topic_analysis):
+    def identification(self, topic_analysis, keywords):
         print("Identifying...")
-        crimes = self.get_crime_keywords()
+        crimes = keywords
         lang = topic_analysis['lang']
         topic = topic_analysis['topic']
         is_delit = False
